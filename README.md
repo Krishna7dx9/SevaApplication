@@ -29,7 +29,7 @@ The app allows users to:
 
 ## 📸 Screenshots / Mockups
 
-*(Add self-made UI mockups or demo screenshots here — avoid using company-owned assets)*
+(https://play.google.com/store/apps/details?id=com.harekrishnamovementahmedabad.sevaapp&hl=en_IN)
 
 ## ⚡ Key Learnings
 
