@@ -1,9 +1,3 @@
-# SevaApplication
-Got it 👍 I’ve pulled the details of your **Seva App** from your resume.
-Here’s a **ready-to-use README.md** you can just copy–paste into your GitHub repo:
-
----
-
 # Seva App 🙏
 
 > **Note:** This project was developed during my internship. Due to confidentiality, the original source code cannot be shared. This repository documents my role, contributions, and the technologies I used.
